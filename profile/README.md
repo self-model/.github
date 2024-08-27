@@ -3,10 +3,10 @@ The Oxford Self-Modelling Group, led by [Matan Mazor](matanmazor.github.io), is 
 
 We believe that, at its best, science is
 
-1. **Nonconformist**. We don’t shy away from never-before-asked questions, and we are passionate about coming up with entirely new ways to do cognitive science.
-2. **Open**. We share all our code, materials, and anonymized data. We are open about our scientific findings, even when they don’t align with our preferred theories. We use clear and simple language to express our ideas, and avoid unnecessary jargon.
-3. **Kind**. We choose scientific methods that do not involve physical or emotional harm to our subjects. For this reason, we run experiments on humans only.
-4. **Solid**. We want others to know that they can trust our findings, so we pre-register our studies, follow a fully reproducible data-to-paper workflow, and follow best-practice guidelines for scientific code-writing. 
+1. **Nonconformist** 🦩. We don’t shy away from never-before-asked questions, and we are passionate about coming up with entirely new ways to do cognitive science.
+2. **Open** 🔓. We share all our code, materials, and anonymized data. We are open about our scientific findings, even when they don’t align with our preferred theories. We use clear and simple language to express our ideas, and avoid unnecessary jargon.
+3. **Kind** ❤️. We choose scientific methods that do not involve physical or emotional harm to our subjects. For this reason, we run experiments on humans only.
+4. **Solid** 🔬. We want others to know that they can trust our findings, so we pre-register our studies, follow a fully reproducible data-to-paper workflow, and follow best-practice guidelines for scientific code-writing. 
 
 
 
