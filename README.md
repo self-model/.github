@@ -1,1 +1,1 @@
-# .github
+# Oxford Self-Modelling Group
