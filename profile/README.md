@@ -1,4 +1,4 @@
-## Hi there 👋
+![Oxford Self-Modelling Group logo](sm.png)
 
 <!--
 
