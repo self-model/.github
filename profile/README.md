@@ -1,5 +1,5 @@
 
-![drawing](sm.png){ width=50% }
+![The Oxford Self-Modelling Group Escher hands logo](sm-wide.png)
 
 The Oxford Self-Modelling Group, led by [Matan Mazor](matanmazor.github.io), is based at the [Department of Experimental Psychology of University of Oxford](https://www.psy.ox.ac.uk/). Together we use tools from cognitive psychology and cognitive neuroscience to study how humans construct, maintain, and update models of their own minds, and how these models are used in perception and decision-making. 
 
